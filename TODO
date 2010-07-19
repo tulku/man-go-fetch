@@ -1,0 +1,13 @@
+* Check what happens when --to-chapter is greater than last chapter
+* Handle exceptions.
+* Handle fetch timeouts.
+* Use threads to download with more than one connection.
+* More intelligent manga loopkup (case for example)
+FIXED * Read manga names with the correct encoding (things like &aacute;)
+
+* Feature: Only telling -to downloads from 0 to the given chapter
+* Feature: Only telling -from downloads from the given to the end
+* Feature: Save manga list and update it on demand.
+* Feature: Resume downloads.
+
+* Let onemanga.com know about the program.
